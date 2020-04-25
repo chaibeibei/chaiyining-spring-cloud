@@ -9,9 +9,16 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>eureka-server</module>
+        <module>eureka-serve</module>
         <module>eureka-client</module>
+        <module>cloud-gateway</module>
         <module>consul-client</module>
+        <module>service-user</module>
+        <module>service-user-interface</module>
+        <module>service-order</module>
+        <module>zuul-getway</module>
+
+
     </modules>
 
 
